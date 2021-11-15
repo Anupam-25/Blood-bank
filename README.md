@@ -32,6 +32,5 @@ Bank blood donation system in java is planned to collect blood from many donator
 •	Blood bank system project
 
 
-![IMG_5631](https://user-images.githubusercontent.com/72030410/141806137-f2ace650-4467-4fdf-ba84-318b773f34e4.JPG)
 
 
