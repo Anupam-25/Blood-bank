@@ -12,14 +12,23 @@ Bank blood donation system in java is planned to collect blood from many donator
 
 
 •	Blood Donor 
+
 •	Equipments 
+
 •	Stick 
+
 •	Blood Recipient 
+
 •	Blood collection 
+
 •	Camp 
+
 •	Stock details 
+
 •	blood bank system project Reports 
+
 •	Blood issued 
+
 •	Blood bank system project
 
 
